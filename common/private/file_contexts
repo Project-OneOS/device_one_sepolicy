@@ -11,3 +11,6 @@
 /system/bin/backuptool_ab\.functions              u:object_r:otapreopt_chroot_exec:s0
 /system/bin/backuptool_ab\.sh                     u:object_r:otapreopt_chroot_exec:s0
 /system/bin/backuptool_postinstall\.sh            u:object_r:otapreopt_chroot_exec:s0
+
+# OneUpdates
+/data/one_updates(/.*)?           u:object_r:ota_package_file:s0
