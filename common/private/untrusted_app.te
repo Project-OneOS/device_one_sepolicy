@@ -1,0 +1,2 @@
+allow untrusted_app_all one_profile_service:service_manager find;
+allow untrusted_app_all one_weather_service:service_manager find;

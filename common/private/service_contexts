@@ -1,0 +1,7 @@
+oneaudio                              u:object_r:one_audio_service:s0
+onehardware                           u:object_r:one_hardware_service:s0
+oneperformance                        u:object_r:one_performance_service:s0
+oneweather                            u:object_r:one_weather_service:s0
+profile                               u:object_r:one_profile_service:s0
+
+adbroot_service                       u:object_r:adbroot_service:s0

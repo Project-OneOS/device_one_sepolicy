@@ -1,0 +1,6 @@
+type adbroot_service,                   service_manager_type;
+type one_audio_service, system_api_service, system_server_service, service_manager_type;
+type one_hardware_service, system_api_service, system_server_service, service_manager_type;
+type one_performance_service, system_api_service, system_server_service, service_manager_type;
+type one_profile_service, system_api_service, system_server_service, service_manager_type;
+type one_weather_service, system_api_service, system_server_service, service_manager_type;
